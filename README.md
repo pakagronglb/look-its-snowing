@@ -1,5 +1,8 @@
 # 3D Low Poly Winter Scene
 
+![Look_ it_s snowing_ __](https://github.com/user-attachments/assets/2bb32c7e-b389-49fc-ad5a-89f24a37f61c)
+
+
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=three.js&logoColor=white)
